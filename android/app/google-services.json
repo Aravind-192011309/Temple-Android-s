@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620236039401",
+    "project_id": "temple-management-system-bfaea",
+    "storage_bucket": "temple-management-system-bfaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620236039401:android:fb7f6935dde231e6d17c78",
+        "android_client_info": {
+          "package_name": "com.example.tms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXkvVBIJtNiyD1H3-Cm089Qe8YHHgqwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
